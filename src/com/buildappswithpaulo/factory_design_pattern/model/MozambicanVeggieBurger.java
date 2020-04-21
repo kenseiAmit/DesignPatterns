@@ -1,3 +1,4 @@
+// This is the Mozambican veggie burger
 package com.buildappswithpaulo.factory_design_pattern.model;
 
 import com.buildappswithpaulo.factory_design_pattern.controller.Hamburger;

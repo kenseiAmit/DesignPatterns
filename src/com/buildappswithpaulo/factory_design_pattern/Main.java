@@ -1,3 +1,9 @@
+/*
+The project is a hamburger stores model which contains multiple hamburger
+stores, which serve various types of hamburgers
+These hamburgers are created through factory creation design pattern
+ */
+
 package com.buildappswithpaulo.factory_design_pattern;
 
 import com.buildappswithpaulo.factory_design_pattern.controller.Hamburger;

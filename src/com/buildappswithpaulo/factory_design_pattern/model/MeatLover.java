@@ -1,3 +1,4 @@
+// This is the meat lover burger
 package com.buildappswithpaulo.factory_design_pattern.model;
 
 import com.buildappswithpaulo.factory_design_pattern.controller.Hamburger;

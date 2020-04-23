@@ -21,3 +21,4 @@ public class SimpleHamburgerFactory extends HamburgerStore {
         };
     }
 }
+

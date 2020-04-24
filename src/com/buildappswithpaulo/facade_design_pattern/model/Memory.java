@@ -1,3 +1,6 @@
+/*
+A simple memory system
+ */
 package com.buildappswithpaulo.facade_design_pattern.model;
 
 public class Memory {

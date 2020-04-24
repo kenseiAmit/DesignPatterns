@@ -1,3 +1,6 @@
+/*
+A simple hard drive
+ */
 package com.buildappswithpaulo.facade_design_pattern.model;
 
 public class HardDrive {
